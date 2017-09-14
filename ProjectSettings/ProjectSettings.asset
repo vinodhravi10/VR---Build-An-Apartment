@@ -10,8 +10,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Udacity
-  productName: Build an Apartment
+  companyName: VinodhRavi
+  productName: Course 2 Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -138,10 +138,10 @@ PlayerSettings:
       depthFormat: 1
   protectGraphicsMemory: 0
   useHDRDisplay: 0
-  targetPixelDensity: 0
+  targetPixelDensity: 200
   resolutionScalingMode: 0
   applicationIdentifier:
-    Android: com.Udacity.BuildAnApartment
+    Android: com.VinodhRavi.Course2Project
     Standalone: com.Udacity.BuildAnApartment
     Tizen: com.MattSonic.Course2Project
     iOS: com.Udacity.BuildAnApartment

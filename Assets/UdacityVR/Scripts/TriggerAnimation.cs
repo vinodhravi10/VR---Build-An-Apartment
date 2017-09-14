@@ -18,6 +18,7 @@ public class TriggerAnimation : MonoBehaviour
 //			animator.SetTrigger (triggerName);
 			print ("Mouse clicked");
 			animator.SetTrigger (triggerName);
+
 		}
 	}
 }
